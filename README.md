@@ -1,4 +1,4 @@
-# s1-2021-IHM
+# ajc-info: projet Belfort
 
 SAÉ S106: découverte de l’environnementéconomique et écologique
 
