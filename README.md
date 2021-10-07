@@ -10,5 +10,6 @@ Chu Thomas
 Feddaoui Farès
 Hernandez Lilian
 
-[ecran_zoning_sae06.odg](https://github.com/blaval-iut90/s1-2021-IHM/files/7303636/ecran_zoning_sae06.odg)
-[ecran_zoning2_sae06.odg](https://github.com/blaval-iut90/s1-2021-IHM/files/7303641/ecran_zoning2_sae06.odg)
+
+[page d'acceuil.odg](https://github.com/blaval-iut90/s1-2021-IHM/files/7303731/page.d.acceuil.odg)
+[page témoin.odg](https://github.com/blaval-iut90/s1-2021-IHM/files/7303732/page.temoin.odg)
