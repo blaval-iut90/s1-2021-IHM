@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>page d'acceuil</title>
+    <link href="teste.css" rel="stylesheet">
+</head>
+<body>
+    <h1> AJC INFO </h1>
+    <nav class="navigation">
+        <a href="page 1">  Page 1</a>
+        <a href="page 2">  Page 2 </a>
+        <a href="page 3"> 3 Page 3 </a>
+        <a href=" page 4"> Page 4</a>
+    </nav>
+    <br>
+    <br>
+    <br>
+    <p class="logo ">
+
+        <img src="logo.jpg">
+        </p>
+    <br>
+    <br>
+        <p class="millieu">
+            Nous allons vous présenter la société AJC INFO . Cette société a son siège social à Belfort. Mais cette société possède aussi deux établissement respectivement basée à Besançon et à Mulhouse .
+            Cette société a été fondee en janvier 2005.</p>
+
+    <br>
+    <br>
+    <br>
+<div class="2">
+    <br>
+    <br>
+    <p class="image ">
+
+        <img src="image.jpeg">
+    </p>
+    <p class="millieu2">
+        <br>
+        <br>
+        La gérante actuelle est Madame Sylvie CHIPAUX depuis la création de l`entreprise et elle gère un quinzaine d'employé sur l'agence de Belfort et entre 20 et 50 sur les deux autres agences .
+        Le domaine de prédilection de cette entreprise est l'informatique et la gestion des ressources (matieriel ou humaine) grace a des logiciel informatique . Ils font aussi un peu de gestion de reseaux et de parc informatiques.
+    </p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+</div>
+    <div class="pied_page" >
+
+        <div class="nom" >
+
+<br>
+            <br>
+            <ol>
+                    <li>LAVAL baptiste<br></li>
+
+                   <li> CHU thomas<br></li>
+
+                   <li> HERNANDEZ lilian<br></li>
+
+                   <li> FEDDAOUI fares<br></li>
+
+            </ol>
+
+            </div>
+            <div class="autre" >
+
+                LAVAL rhijqfsmoighfbaptiste
+                CHU thomrjjsugrjas
+                HERNANDEZ sruthzfqpçlilian
+                FEDDAOrjqepùUI fares
+
+
+            </div>
+        </div>
+</body>
+</html>
