@@ -13,7 +13,8 @@ Hernandez Lilian
 https://blaval-iut90.github.io/s1-2021-IHM/
 
 
-![écran de zoning](ecran_zoning_sae06.odg))
+![écran de zoning](ecran_zoning_sae06.odg)
+
 ![écran prototype](ecran_zoning2_sae06.odg)
 
 
