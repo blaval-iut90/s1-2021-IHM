@@ -1,0 +1,92 @@
+h1{text-align: center ;
+    font-size: xx-large;
+    color: white;
+    font-family:sans-serif;
+    height: 60px;
+}
+.logo{float: left;
+    padding: 20px}
+
+.millieu{ line-height: 16px}
+
+body{
+    margin-left: 40px;
+    margin-right: 40px;}
+
+img{
+    width: 240px;
+    height: 240px;
+    padding: 3px;
+}
+.millieu2{
+    text-align: left;
+    line-height: normal;
+}
+
+
+nav.navigation{
+    width:100%;
+    height: 70px;
+    align-items: center;
+}
+
+a {
+    width:150px;
+    height: 30px;
+    background-color:dodgerblue;
+    border: 2px blue ;
+    color: white;
+    text-align:center;
+    vertical-align: middle;
+    height: 50px;
+    padding: 10px;
+    margin-right: 6%;
+    margin-left: 6%;
+    border-radius: 10px 10px 10px 10px;
+    display:block;
+    float:left;
+}
+
+a:hover {
+    background-color:purple;
+    color:white;
+}
+p{
+    font-size: large;
+
+}
+
+#pied_page{
+    background-color: rgba(161, 0, 255, 0.51);
+    height : 250px;
+    display: flex ;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+
+#pied_page div{
+    width: 300px;
+    height: 150px;
+    background-color: purple;
+    overflow: auto;
+
+
+}
+
+hr {
+    border-top: 2px solid black;
+}
+
+.container{
+    background-color: #1154a4;
+}
+
+div.container {
+
+    vertical-align: middle ;
+}
+.right{float: right}
