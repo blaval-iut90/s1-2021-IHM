@@ -19,7 +19,7 @@ https://blaval-iut90.github.io/s1-2021-IHM/
 
 ![écran prototype](ecran_zoning2_sae06.png)
 
-[page d'acceuil.odg](page.d.acceuil.png)
+![page d'acceuil.odg](page.d.acceuil.png)
 
-[page témoin.odg](page.temoin.png)
+![page témoin.odg](page.temoin.png)
 
