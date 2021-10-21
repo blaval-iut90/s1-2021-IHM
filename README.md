@@ -1,4 +1,4 @@
-# ajc-info: projet Belfort
+# AJC-INFO: projet Belfort
 
 SAÉ S106: découverte de l’environnementéconomique et écologique
 
