@@ -1,0 +1,109 @@
+h1{text-align: center ;
+    font-size: xx-large;
+    color: white;
+    font-family:sans-serif;
+    height: 60px;
+    padding-top: 10px;
+ }
+.logo{float: left;
+padding: 20px}
+
+.millieu{ line-height: 16px}
+
+body{
+    margin-left: 40px;
+    margin-right: 40px;}
+
+.image{
+    float: right;
+    padding: 20px;
+}
+.millieu2{
+    text-align: left;
+    line-height: normal;
+}
+
+
+nav.navigation{
+    width:100%;
+    height: 50px;
+    align-items: center;
+}
+
+a {
+    width:150px;
+    background-color:dodgerblue;
+    border: 3px white ;
+    border-color: white;
+    color: white;
+    text-align:center;
+    vertical-align: middle;
+    height: 65px;
+    padding: 10px;
+    margin-right: 6%;
+    margin-left: 6%;
+    border-radius: 10px 10px 10px 10px;
+    display:block;
+    float:left;
+}
+
+a:hover {
+    background-color:white;
+}
+p{
+    font-size: large;
+
+}
+
+#pied_page{
+    background-color: lightslategray;
+    height : 250px;
+    display: flex ;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin-top: 1em;
+
+
+}
+
+
+#pied_page div{
+    width: 400px;
+    height: 150px;
+    border: whitesmoke solid;
+    color: white;
+    overflow: auto;
+    align-items: center;
+    align-content: center;
+
+
+}
+
+hr {
+    border-top: 2px solid black;
+}
+
+.container{
+    background-color: #1154a4;
+}
+
+div.container {
+
+    vertical-align: middle ;
+}
+
+#titreservices {
+    padding-left: 2em;
+    padding-top: 2em;
+}
+
+#transition{
+    border-top: 3px solid whitesmoke;
+}
+
+#partenaires{
+    padding: 3em;
+    padding-top: 6em;
+}
