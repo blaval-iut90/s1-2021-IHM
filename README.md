@@ -14,8 +14,12 @@ https://blaval-iut90.github.io/s1-2021-IHM/
 
 
 ![écran de zoning](doc/ecran_zoning.png)
+
 ![écran prototype](doc/ecran_prototype.png)
+
 [baptiste laval](mailto:blaval@edu.univ-fcomte.fr?subject=SAE_1_06)
+
 [page d'acceuil.odg](https://github.com/blaval-iut90/s1-2021-IHM/files/7303731/page.d.acceuil.odg)
+
 [page témoin.odg](https://github.com/blaval-iut90/s1-2021-IHM/files/7303732/page.temoin.odg)
 
