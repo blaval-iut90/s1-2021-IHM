@@ -1,0 +1,55 @@
+h1{
+  text-align: center;
+  padding: 10px 0px;
+  margin-bottom: 10px;
+  background-color: #1154A4;
+}
+
+a{
+  width: 100px;
+  height: 30px;
+  background-color: dodgerblue;
+  border: 1px #000000 groove ;
+  text-align: center;
+  padding: 10px 10px 35px 10px;
+  margin-right: 6%;
+  margin-left: 6%;
+  vertical-align: middle;
+  border-radius: 50px 10px 50px 10px;
+  float: left;
+  flex-grow: 1;
+}
+
+hr{
+  margin: 35px 0px;
+}
+
+.navigation{
+  display: flex;
+  padding: 20px 0px;
+  background-color: #1154A4;
+}
+
+.img1{
+  flex-grow: 1;
+  margin: 10px;
+}
+
+.txt1{
+  flex-grow: 1;
+}
+
+.text1{
+  display: flex;
+  margin: 1px 0px;
+  padding: 10px;
+  background-color: #1154A4;
+}
+
+.nomd{
+  text-align: right;
+}
+
+.pied{
+  background-color: #1154A4;
+}
