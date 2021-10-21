@@ -12,11 +12,9 @@ padding: 20px}
 body{
     margin-left: 40px;
     margin-right: 40px;}
-
-.image{
-    float: right;
-    padding: 20px;
-}
+img{
+    heigth:240px;
+    width:240px;
 .millieu2{
     text-align: left;
     line-height: normal;
