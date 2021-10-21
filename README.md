@@ -30,5 +30,9 @@ Page témoin (squelette général du site)
 
 ![page témoin](page.temoin.png)
 
+La page web 3 "Services de l'entreprise" écrite par Thomas Chu a été validé:
+
+![preuve de validation page3](Preuve_validateur_page3.png)
+
 
 
