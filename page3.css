@@ -99,11 +99,28 @@ div.container {
     padding-top: 2em;
 }
 
-#transition{
+#transition1{
+    border-top: 3px solid whitesmoke;
+}
+#transition2{
+    border-top: 3px solid whitesmoke;
+}
+#transition3{
+    border-top: 3px solid whitesmoke;
+}
+#transition4{
     border-top: 3px solid whitesmoke;
 }
 
-#partenaires{
+#partenaires1{
+    padding: 3em;
+    padding-top: 6em;
+}
+#partenaires2{
+    padding: 3em;
+    padding-top: 6em;
+}
+#partenaires3{
     padding: 3em;
     padding-top: 6em;
 }
