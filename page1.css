@@ -1,8 +1,8 @@
 h1{text-align: center ;
     font-size: xx-large;
-    background-color: orangered;
+    color: white;
     font-family:sans-serif;
-    border: solid black 3px;
+    height: 60px;
  }
 .logo{float: left;
 padding: 20px}
@@ -10,7 +10,6 @@ padding: 20px}
 .millieu{ line-height: 16px}
 
 body{
-    background-color: olive;
     margin-left: 40px;
     margin-right: 40px;}
 
@@ -24,22 +23,22 @@ body{
 }
 
 
-
-
-}
 nav.navigation{
     width:100%;
-    height: 70px;
+    height: 60px;
     align-items: center;
 }
 
 a {
     width:150px;
     height: 30px;
-    background-color:gold;
-    border: 1px green groove ;
+    background-color:dodgerblue;
+    border: 3px white ;
+    border-color:  white;
+    color: white;
     text-align:center;
     vertical-align: middle;
+    height: 65px;
     padding: 10px;
     margin-right: 6%;
     margin-left: 6%;
@@ -49,30 +48,50 @@ a {
 }
 
 a:hover {
-    background-color:pink;
+    background-color:white;
 }
 p{
     font-size: large;
 
 }
 
-.pied_page{
-    background-color:deepskyblue ;
+#pied_page{
+    background-color: lightslategrey;
     height : 250px;
-    display: block;
+    display: flex ;
+    flex-direction: row;
+    justify-content: space-around;
     align-items: center;
 
 
 }
 
-.nom > .pied_page{
-    position: relative;
-    width: 50%;
+
+#pied_page div{
+    width: 400px;
+    height: 150px;
+    border: whitesmoke solid;
+    color: white;
+    overflow: auto;
+    align-items: center;
+    align-content: center;
+
+
 }
-.autre{ float: right ;
-    left: 45%;
-    width: 45%;
 
+hr {
+    border-top: 2px solid black;
+}
 
+.container{
+    background-color: #1154a4;
+}
 
+div.container {
+
+    vertical-align: middle ;
+}
+
+.middle{
+    vertical-align: middle;
 }
