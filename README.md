@@ -38,4 +38,7 @@ La page web 0 "Page d'acceuil AJC-INFO" écrite par Thomas Chu a été validé:
 
 ![preuve de validation page0](Preuve_validateur_page0.png)
 
+# Livrable parties Économie et Documents numérique
+[parties Économie et Document numérique ](B1_chu_laval_feddaoui_hernandez.pdf)
+
 
